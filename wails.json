@@ -1,0 +1,9 @@
+{
+  "name": "Wails.VideoTest",
+  "outputfilename": "Wails.VideoTest",
+  "wailsjsdir": "./frontend",
+  "author": {
+    "name": "ksp",
+    "email": "spiridonovkn@gmail.com"
+  }
+}
